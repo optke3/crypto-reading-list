@@ -17,4 +17,5 @@ Aptos uses a version of Hotstuff BFT consensus, has an advertised TPS of >100k, 
 ## Ecosystem
 * [Aptos Developer Network](https://aptos.dev/)
 * [Pontem Developer Network](https://pontem.network/)
+* [Pontem Tutorial (Aptos CLI)](https://docs.pontem.network/02.-tutorials/aptos-tutorial)
 * [Aptos Medium Blog](https://medium.com/aptoslabs/the-aptos-vision-1028ac56676e)
