@@ -12,7 +12,7 @@ Aptos uses a version of Hotstuff BFT consensus, has an advertised TPS of >100k, 
 * [Aptos Core](https://github.com/aptos-labs/aptos-core)
 * [Move Whitepaper](https://diem-developers-components.netlify.app/papers/diem-move-a-language-with-programmable-resources/2020-05-26.pdf)
 * [The Move Book](https://move-book.com/index.html)
-* [Diem Move - How do Addresses Work?](https://diem.github.io/move/address.html)
+* [How do Addresses Work in Aptos?](https://diem.github.io/move/address.html)
 
 
 ## Ecosystem
